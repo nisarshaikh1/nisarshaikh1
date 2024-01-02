@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nisar Shaikh
 ====================================================================================================================================
 
-I am a Mechanical Engineer graduate, I'm Completed PG Diploma in Artificial Intelligence, AI, ML, Business Analytics, I am keen to solve the real world business problems with the help of statistical analysis, machine learning, deep learning,business intelligence and excel.
+Result oriented professional with strong data visualization skills. Seeking to utilize visualization techniques and data driven experience as a Data Analyst Intern at indomitable Pvt Ltd. Coming with expert knowledge in SQL, PowerBI and Python.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nisarshaikh6276@gmail.com](mailto:nisarshaikh6276@gmail.com)
