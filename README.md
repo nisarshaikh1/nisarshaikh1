@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Mechanical Engineer graduate, I'm Completed PG Diploma in Artificial Intelligence, AI, ML, Business Analytics, I am keen to solve the real world business problems with the help of statistical analysis, machine learning, deep learning,business intelligence and excel.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [nisarshaikh2819@gmail.com](mailto:nisarshaikh6276@gmail.com)
+* ✉️  You can contact me at [nisarshaikh6276@gmail.com](mailto:nisarshaikh6276@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
